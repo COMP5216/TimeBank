@@ -190,6 +190,7 @@ public class MainActivity extends AppCompatActivity implements TaskAdapter.OnTas
 
     }
 
+
 //    @Override
 //    public void onRestaurantSelected(DocumentSnapshot restaurant) {
 //        // Go to the details page for the selected restaurant

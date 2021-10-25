@@ -19,7 +19,7 @@ import androidx.lifecycle.ViewModel;
 
 
 /**
- * ViewModel for {@link comp5216.sydney.edu.au.assignment2.MainActivity;}.
+ * ViewModel for {@link comp5216.sydney.edu.au.timebank.PublishActivity;}.
  */
 
 public class MainActivityViewModel extends ViewModel {

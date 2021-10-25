@@ -62,4 +62,14 @@ public class Task {
         this.time_coin = time_coin;
     }
 
+    @Override
+    public String toString() {
+        return "Task{" +
+                "name='" + name + '\'' +
+                ", title='" + title + '\'' +
+                ", description='" + description + '\'' +
+                ", photo='" + photo + '\'' +
+                ", time_coin=" + time_coin +
+                '}';
+    }
 }

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "547343846300",
+    "project_id": "timebank-e431d",
+    "storage_bucket": "timebank-e431d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547343846300:android:0474f1b0788cf6a8621659",
+        "android_client_info": {
+          "package_name": "comp5216.sydney.edu.au.timebank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547343846300-8k25d7k704egmemsorr84hhfa6p3pph9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtHfsMvNg84_52ca-Ir3wDPpqyyop8nXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547343846300-8k25d7k704egmemsorr84hhfa6p3pph9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
